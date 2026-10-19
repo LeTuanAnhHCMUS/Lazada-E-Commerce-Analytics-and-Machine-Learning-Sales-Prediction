@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets & Environment Variables (Cực kỳ quan trọng)
+.env
+*.env
+*.pem
+*.key
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (Đang comment-out theo ý bạn muốn push toàn bộ data)
+# *.csv
+# *.json

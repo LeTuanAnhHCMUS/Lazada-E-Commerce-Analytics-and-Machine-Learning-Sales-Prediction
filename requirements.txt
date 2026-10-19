@@ -1,0 +1,14 @@
+certifi
+beautifulsoup4
+ipykernel
+jupyterlab
+matplotlib
+numpy
+pandas
+pymongo
+scikit-learn>=1.4
+scipy
+seaborn
+selenium
+undetected-chromedriver
+webdriver-manager
